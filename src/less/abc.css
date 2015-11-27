@@ -1,0 +1,13 @@
+a{
+    text-transform: none;
+    background-color: red;
+    background-size: 12px;
+}
+
+div {
+    background-image: url('../images/a.png');
+}
+
+div.cl {
+    background-image: url('../images/b.png');
+}
