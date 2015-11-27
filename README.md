@@ -1,5 +1,10 @@
 #front_build
 
+## 安装
+```shell
+$ npm install
+```
+
 ## 目录介绍
 
 * src 开发目录
